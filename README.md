@@ -23,6 +23,7 @@ Revenue360 is a comprehensive hospitality analytics platform designed to provide
  - DBRN: Daily Booked Room Nights
  - DURN: Daily Utilized Room Nights
  - Cancellation Analysis: Monitor cancellation rates and their impact on overall performance.
+![Screenshot 2024-12-02 124201](https://github.com/user-attachments/assets/774a4756-1abf-42c6-94ee-64ae0d6c3f45)
 
 # Measures and KPIs
  Key Metrics:
